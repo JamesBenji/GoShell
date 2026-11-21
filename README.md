@@ -22,4 +22,4 @@
 - `https://healeycodes.com/building-a-shell`
 - `https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf`
 - `https://brennan.io/2015/01/16/write-a-shell-in-c/`
-- `https://pkg.go.dev/os/exec`
+- `https://www.geeksforgeeks.org/c/making-linux-shell-c/`
