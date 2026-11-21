@@ -11,6 +11,7 @@
 
 - The main idea to follow when building a shell (REPL) and how to access delegate to the OS user commands.
 - Working with a pipe in Go (Inter-process communication)
+- Go uses the command.Run() to start a child process, execute the command in it, and wait for it to return results.
 
 ## How I used AI
 
